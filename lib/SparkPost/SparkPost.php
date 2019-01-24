@@ -34,7 +34,7 @@ class SparkPost
      * Default options for requests that can be overridden with the setOptions function.
      */
     private static $defaultOptions = [
-        'host' => 'api.sparkpost.com',
+        'host' => 'api.eu.sparkpost.com',
         'protocol' => 'https',
         'port' => 443,
         'key' => '',
